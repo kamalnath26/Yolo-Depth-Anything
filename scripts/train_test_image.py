@@ -3,7 +3,7 @@ Kamalnath Bathirappan & Ahilesh Rajaram
 April 2025
 CS 5330 Project Final
 
-This script test the model with trained model with an sample image
+This script test the model with trained data with an sample image
 '''
 
 import torch
